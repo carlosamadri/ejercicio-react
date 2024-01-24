@@ -1,0 +1,28 @@
+.card-flex {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #870e4f;
+    margin: 100px;
+    border-radius: 1em;
+}
+
+.col {
+    padding: 50px;
+    width: 450px;
+    text-align: justify;
+}
+
+.card-name {
+    text-align: center;
+}
+
+.card-email {
+    text-align: center;
+}
+
+.foto {
+    width: 450px;
+    border-radius: 1em;
+}
